@@ -38,6 +38,7 @@ This application is a **Discord Status Changer** developed with Python using `cu
 ### Notes:
 - Ensure your Discord token is valid.
 - You can set the rotation interval in seconds using the interval field.
+
 **- Make sure the Interval isnt too low so that you Discord Account isnt getting blocked by RateLimits!**
 
 ---
