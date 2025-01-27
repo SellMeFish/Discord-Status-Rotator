@@ -55,6 +55,7 @@ This application is a **Discord Status Changer** developed with Python using `cu
 - **Token Issues**: Make sure your token is correct and valid.
 - **Rotation Not Starting**: Ensure you've added at least one status and updated your token.
 - **Error Logs**: Check the console for detailed error messages.
+- **Discord**: Having Troubles? add me on Discord: **easylogs**
 
 ---
 
