@@ -43,7 +43,7 @@ This application is a **Discord Status Changer** developed with Python using `cu
 
 ## Screenshots 📸
 
-Add some screenshots of your application here!
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/V3LUdfV" data-context="false" ><a href="//imgur.com/a/V3LUdfV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---
 
@@ -58,9 +58,3 @@ Add some screenshots of your application here!
 ## Contributing 🤝
 
 Feel free to fork this project and submit pull requests. Contributions are welcome!
-
----
-
-## License 📜
-
-This project is licensed under the MIT License.
